@@ -1,4 +1,3 @@
-**PhotoVault-Album-and-Photo-Management-System**
 **PhotoVault: Album and Photo Management System Spring Boot RestFul API**
 
 This API documentation outlines several endpoints for managing albums, photos, and authentication-related tasks.
